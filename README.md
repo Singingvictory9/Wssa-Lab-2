@@ -1,0 +1,4 @@
+## Getting started with PowerDue Microcontroller and FreeRTOS
+
+We learn the about PowerDue Arduino IDE  and the procedure to deploy code on it , working with on-board components through the corresponding software libraries. Application of common embedded systems concepts including semaphores and queues using FreeRTOS environment to control the flashing of LEDs is another major task to be achieved here .The first part involves deploying the basic Arduino code and configuring it for PowerDue and then making it interactive so that it's able to accept user inputs for controlling the blinking of LEDs. The second part involves deploying the same sketch but in FreeRTOS environment , we need to use tasks , threads , semaphores for it's execution and use queue as the global buffer to make the FreeRTOS environment interactive i.e. giving users the capability to control the color of LEDS being flashed and in a desired sequence .
+
