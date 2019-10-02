@@ -13,7 +13,7 @@ void setup() {
   SerialUSB.begin(0);
 }
 
-// the loop function runs over and over again forever
+// the loop function runs over and over again forever and use switch statement 
 void loop() {
   if (SerialUSB.available()){
     char c = SerialUSB.read();
