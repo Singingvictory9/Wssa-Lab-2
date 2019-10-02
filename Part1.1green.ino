@@ -3,7 +3,7 @@
 #define LED_G 7
 #define LED_B 8
 void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
+  // initialize digital pin LED_BUILTIN as an output and write to them .
   pinMode(LED_R, OUTPUT); 
   pinMode(LED_G, OUTPUT);
   pinMode(LED_B, OUTPUT);
