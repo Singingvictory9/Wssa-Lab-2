@@ -11,7 +11,7 @@ void setup() {
 
 }
 
-// the loop function runs over and over again forever
+// the loop function runs over and over again forever and write to it
 void loop() {
   digitalWrite(LED_R, HIGH);    
   delay(250);                       // wait for a second
