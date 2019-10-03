@@ -1,5 +1,5 @@
 /*
- * Example to demonstrate thread definition, semaphores, and thread sleep.
+ * Example to demonstrate thread definition.
  */
 #include <FreeRTOS_ARM.h>
 #include "PowerDueLED.h"
